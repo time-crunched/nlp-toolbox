@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="tool-heading">
+	<h1>Tools index</h1>
+	<h2><a href={% url 'sim_v1:upload' %}>Similarity search tool</a></h2>
+	<p>A tool for finding similar documents. </p>
+	<h2><a href={% url 'sum_v1:upload' %}>Summary tool</a></h2>
+	<p>A tool for generating automatic summaries. </p>
+</div>
+
+{% endblock %}
