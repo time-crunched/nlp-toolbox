@@ -1,0 +1,26 @@
+{% extends 'sum_v1_base.html' %}
+
+{% load static %}
+
+{% block javascript %}
+{% endblock %}
+
+{% block photos_content %}
+	<h3>Results</h3>
+	{% for result in results %}
+		<div class="results">
+			<h4>{{ result.doc }}</h4>
+			<p>{{ result.summary }}</p>
+		</div>
+	{% endfor %}
+
+	<div class="back-button">
+		<form action="{% url 'sum_v1:upload' %}">
+			{% csrf_token %}
+			<button type="submit" class="btn btn-primary pull-left">
+				<span class="	glyphicon glyphicon-step-backward"></span> Back
+			</button>
+		</form>
+	</div>
+
+{% endblock %}

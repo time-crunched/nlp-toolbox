@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="tool-heading">
+	<h2>Similarity search tool</h2>
+</div>
+
+<div class="results-heading">
+	<h3> The {{ num_best }} most similar documents are:</h3>
+	<p><strong>Query document: </strong>{{ query_doc }}</p>
+	<p><strong>Search directory: </strong>{{ directory }}</p>
+	<p><strong>Indexed documents in the directory: </strong>{{ num_doc }}</p>
+</div>
+		{% for result in results %}
+			<div class="results">
+				<h4><a href="file:///{{ result.url }}">{{ result.url }}</a></h4>
+				<p>Similarity score: {{ result.sim_score }}</p>
+				<p>{{ result.summary }}</p>
+			</div>
+		{% endfor %}
+
+<div class="back-button">
+	<form action="{% url 'sim_v1:upload' %}">
+		{% csrf_token %}
+		<button type="submit" class="btn btn-primary pull-left">
+			<span class="	glyphicon glyphicon-step-backward"></span> Back
+		</button>
+	</form>
+</div>
+
+{% endblock %}
