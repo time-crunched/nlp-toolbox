@@ -1,0 +1,94 @@
+Beskrivelse av utstyr og arbeidsflyt for vannfylt tunnelinspeksjon
+
+Sammendrag
+
+I samarbeid mellom dykkerfirma O.E. Hagen og Norconsult tilbys en metode for inspeksjon av vannfylte tunneler. Inspeksjonen utføres med en undervannsbåt som er fjernstyrt via kabel fra land. Ved hjelp av sonarer og et posisjonssystem genereres en digital modell av tunnelen som kunden deretter kan spasere tørt igjennom digitalt.
+
+Utstyret har per november 2017 en maksimal rekkevidde på 7,5 km.
+
+Utstyr
+
+ROV
+
+Mål: 934 x 834 x 2161 cm (H x B x D)
+
+Vekt: Ca. 450 kg
+
+Trustkapasitet: 15 kW
+
+Manøvrering: Forover, bakover, sideveis, opp, ned og rotasjon om vertikal akse
+
+Utstyr: Fire kamera (foran, bak og over), lys, to sonarer (tunnelprofilering og forover rettet), gripeklo, saks, kompass, dybdemåler
+
+Kabel
+
+Lengde: 1 km, 6 km og 7,5 km
+
+Diameter: Ø22,5 mm
+
+Kontrollrom
+
+13 fots container
+
+Mål: 259 x 243 x 381 cm (H x B x D)
+
+Vekt: Ca. 3800 kg.
+
+Kabelvinsj 
+
+Utstyr: Kabelteller, motor og brems
+
+Mål: 190 x 188 x 345 cm (H x B x D)
+
+Vekt: Ca. 4000 kg (inkl. 6 km kabel)
+
+Strømforsyning
+
+Spenning: 220 VAC; trefase
+
+Strøm: 64 A
+
+
+
+Figur 1: Kabelvinsj med 6 km kabel.
+
+
+
+Figur 2: ROV.
+
+
+
+
+Figur 3: Kontrollrom.
+
+Inspeksjon
+
+Normalt benyttes en dag for tilrigging og en dag for tunnelkjøring. Spesielt tilrigging er viktig for et godt resultat. Det vil si at det må rigges til slik at ROVen uten problemer kan senkes ned til vannspeilet og at kabelen får løpe fritt inn i tunnelen. Som regel løses dette ved hjelp av trinsehjul som lar kabelen løpe forbi eventuelle bend ved innløpet på tunnelen.
+
+Under inspeksjon er det viktig at kabelen til enhver tid holdes stram. Dette gjelder både med hensyn til kartleggingen av tunnelen og med hensyn til å minimere risikoen for fastkjøring. I praksis vil dette si at ROVen til enhver tid vil ha et pådrag fremover, mens det er operatøren på kabelvinsjen som styrer farten ved å regulere hastigheten kabelen mates ut med. På den måten holdes kabelen stram og uheldige løkker eller lignende som kan kile seg ned mellom steiner eller annet unngås. For øvrig, er kabelen svakt negativ slik at den forsiktig vil legge seg langs tunnelsålen og ikke flyte opp mot tunnelhengen hvor det kan være mye å sette seg fast i. Dersom kabelen kiler seg fast, er ROVen utstyrt med gripeklo som kan benyttes for å løfte kabelen, men erfaringsmessig har ikke dette vært et problem da kabelen flyter bra over tunnelsålen. På tilbakeveien legges kabelen i en liten løkke på et par meter bak ROVen, og ROV følger så på etter hvert som kabelen sveives inn.
+
+Tunnelens tverrsnitt overvåkes kontinuerlig under inspeksjonen og eventuelle ras eller løsmasser kan vurderes visuelt på stedet. Normalt gjøres dette på tilbaketuren når kartleggingen er over. ROVen er utstyrt med flere høyoppløselige kamera; foran, bak og over mot tunnelhengen. Det er dermed tilrettelagt for at geolog også kan delta under inspeksjonen.
+
+
+
+Figur 4: Tilrigging og adkomst via sugerørslukesjakt.
+
+Leveranse
+
+Det leveres en 3D-modell av tunnelen som åpnes med et egnet innsynsprogram. Modellen kan benyttes av kunden for nøyaktig å vurdere lengde, tverrsnitt og volum på tunnelen. Videre kan lokasjon og størrelse på nedfall, ras eller ansamling av løsmasser også bestemmes. I fremtiden kan for eksempel også nye tunnelskanninger legges over gamle for vurdering av tid og oppsamling av løsmasser eller nedfall. Modellen kan også kombineres med kartdata for vurdering av overdekning eller utarbeidelse av nytt tegningsunderlag. Ellers kan nevnes falltap, luftlommer m. m. Her eksisterer det en rekke muligheter som tilpasses kundens ønsker.
+
+
+
+Figur 5: Tunnelmodell.
+
+
+
+Figur 6: Måling av tunneltverrsnitt.
+
+
+
+Figur 7: Vurdering av løsmasser.
+
+		j:\50_energi\540_maskin\6_tilbud\vannkraft\2017\rov østfold energi\beskrivelse av utstyr og arbeidsflyt for vannfylt tunnelinspeksjon.docx
+
+  |  Side 2 av 5

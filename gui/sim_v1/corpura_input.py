@@ -1,18 +1,18 @@
 import os
 
-corpura_dict = {r'corpus_1': {r'search_dir': r'C:\Users\erdig\Desktop\Vannveisutstyr\Rør',
+corpura_dict = {r'corpus_1': {r'search_dir': r'C:\Users\erdig\Desktop\6_Tilbud\Vannkraft\2017',
                             r'doc': True,
                             r'docx': True,
                             r'pdf': False,
                             r'txt': False,
-                            r'language': r'english'
+                            r'language': r'norwegian'
                             },
-                r'corpus_2': {r'search_dir': r'C:\Users\erdig\Desktop\Vannveisutstyr\Rør\Stål-jernrør',
+                r'corpus_2': {r'search_dir': r'C:\Users\erdig\Desktop\6_Tilbud\Vannkraft\2018',
                             r'doc': True,
                             r'docx': True,
                             r'pdf': False,
                             r'txt': False,
-                            r'language': r'english'
+                            r'language': r'norwegian'
                                     },
                 }
 
