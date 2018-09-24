@@ -1,18 +1,19 @@
 import os
 
-corpura_dict = {r'corpus_1': {r'search_dir': r'/Users/Erik/Dropbox',
+corpura_dict = {r'corpus_1': {r'search_dir': r'C:\Users\erdig\Desktop\Vannveisutstyr\Rør',
                             r'doc': True,
                             r'docx': True,
                             r'pdf': False,
                             r'txt': False,
                             r'language': r'english'
                             },
-                # 'corpus_2': {'search_dir': '/Users/Erik/Documents/Jobb',
-                #             'docx': True,
-                #             'pdf': True,
-                #             'txt': False,
-                #             'language': 'norwegian'
-                #             },
+                r'corpus_2': {r'search_dir': r'C:\Users\erdig\Desktop\Vannveisutstyr\Rør\Stål-jernrør',
+                            r'doc': True,
+                            r'docx': True,
+                            r'pdf': False,
+                            r'txt': False,
+                            r'language': r'english'
+                                    },
                 }
 
 corpura_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','corpura')
