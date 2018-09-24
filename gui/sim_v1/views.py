@@ -13,14 +13,16 @@ from sim_v1.textsimilarity import TEXTSimilarity
 from sim_v1.textsummary import TEXTSummary
 
 # Directories:
-
-query_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','documents')
+print(os.path.dirname(__file__))
+print(os.path.abspath(__file__))
+print(os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','sim_v1','upload'))
+query_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','sim_v1','upload')
 #query_dir = r'C:\Users\ERDIG\Dropbox\Python\nlp_v1\media\documents'
 
-query_extraction_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','extraction')
+query_extraction_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','sim_v1','extraction')
 #query_extraction_dir = r'C:\Users\ERDIG\Dropbox\Python\nlp_v1\media\extraction'
 
-summary_extraction_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','summary')
+summary_extraction_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','sim_v1','summary')
 #summary_extraction_dir = r'C:\Users\ERDIG\Dropbox\Python\nlp_v1\media\summary'
 
 from .corpura_input import corpura_dict_dir  as corpura_dict_dir
