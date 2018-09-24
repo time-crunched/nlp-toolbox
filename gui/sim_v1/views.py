@@ -13,9 +13,6 @@ from sim_v1.textsimilarity import TEXTSimilarity
 from sim_v1.textsummary import TEXTSummary
 
 # Directories:
-print(os.path.dirname(__file__))
-print(os.path.abspath(__file__))
-print(os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','sim_v1','upload'))
 query_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)),'media','sim_v1','upload')
 #query_dir = r'C:\Users\ERDIG\Dropbox\Python\nlp_v1\media\documents'
 
