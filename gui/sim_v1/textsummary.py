@@ -41,6 +41,6 @@ class TEXTSummary():
 
     def summary(self):
         filename = glob.glob(os.path.join(self.summary_extraction_dir, '*.txt'))[0]
-        with open(filename,'r') as f:
+        with open(filename,'r', encoding = 'utf-8') as f:
             self.text = f.read()
             self.summary = summarize(self.text, ratio = self.ratio, word_count = self.word_count)
