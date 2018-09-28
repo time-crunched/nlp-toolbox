@@ -1,0 +1,7 @@
+tabell
+2
+oversikt
+konsulent
+per
+konsulentkategori
+fagområd

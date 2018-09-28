@@ -25,8 +25,8 @@ summary_extraction_dir = os.path.join(os.path.dirname(os.path.dirname(__file__))
 from .corpura_input import corpura_dict_dir  as corpura_dict_dir
 
 #Summary
-summary_ratio = 0.01
-summary_word_count = 200
+summary_ratio = 0.005
+summary_word_count = 50
 
 # Models
 
@@ -47,7 +47,7 @@ def calculate(request):
 
     query.query_extraction()
     query.query_process()
-    num_best = 5
+    num_best = 10
     query.query_similarity(num_best)
 
     SimilarityRes.objects.all().delete()

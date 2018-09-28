@@ -1,0 +1,10 @@
+oppdragsnr
+dokumentnr
+versjon
+tilbudsbrev
+tilbudsbrev
+dokument121
+dokument121
+sid
+3
+3

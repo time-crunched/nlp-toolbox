@@ -1,0 +1,881 @@
+STATKRAFT 
+
+ITT no. <RFXEXTERNALNUMBER <RFXTITLE
+
+Vedlegg A-D		Page 1 of 20  
+
+Vedlegg A-D
+
+
+
+Innholdsfortegnelse
+
+Vedlegg A: Arbeidsomfang	2
+
+1	Orientering og arbeidsomfang	2
+
+1.1	Generelt	2
+
+1.2	Underlag	2
+
+2	Tekniske bestemmelser og spesifikasjon	3
+
+2.1	Leveransen	3
+
+2.1.1	Generelt	3
+
+2.1.2	Tverrslagsport	4
+
+	2.1.2.1	Arrangement	4
+
+	2.1.2.2	Funksjon	4
+
+	2.1.2.3	Leveranse	4
+
+	2.1.2.4	Hoveddata	4
+
+2.1.3	Tappeutstyr	5
+
+	2.1.3.1	Arrangement	5
+
+	2.1.3.2	Funksjon	5
+
+	2.1.3.3	Leveranse	5
+
+	2.1.3.4	Hoveddata	6
+
+2.2	Kontraktsgjenstanden	6
+
+2.3	Utførelse	6
+
+2.3.1	Generelt	6
+
+2.3.2	Tverrslagsport	6
+
+	2.3.2.1	Porten	6
+
+	2.3.2.2	Karm og platekledning	7
+
+2.3.3	Tappeutstyr	7
+
+2.4	Montasjearbeider	8
+
+2.4.1	Karm og platekledning	8
+
+2.4.2	Tappeutstyr	8
+
+2.5	Reservedeler	8
+
+2.6	Dimensjonering	9
+
+2.7	Prøver	9
+
+2.8	Dokumentasjon	9
+
+2.9	Grensesnitt Leverandør/Entreprenør/Byggherre	10
+
+2.10	Forhold på byggeplassen	12
+
+3	Vedlegg A1. Generelle tekniske krav – Vannveiskonstruksjoner	14
+
+4	Vedlegg A2. Malingsspesifikasjon for maskinteknisk vannkraftutstyr	14
+
+5	Vedlegg A3. Tegninger	14
+
+
+
+
+
+
+Vedlegg A: Arbeidsomfang
+
+Orientering og arbeidsomfang
+
+Generelt
+
+Tokke kraftverk ligger i Tokke kommune i tettstedet Dalen. Kraftstasjonen utnytter fallet fra Vinjevatnet i Vinje kommune og ned til Bandak. Installert effekt er 430 MW fordelt på 4 Francismaskiner med midlere årlig produksjon på ca. 2,1 TWh.
+
+Eksisterende tverrslagsport i tverrslag Rogdeli har lysåpning på 2,2 m x 2,2 m og er for liten til å få store maskiner og kjøretøy inn i tilløpstunnelen, blant annet i forbindelse med utbedringer etter ras. Det er derfor bestemt at den eksisterende tverrslagsproppen og porten skal erstattes med en ny propp og port nedstrøms eksisterende.
+
+Utbedringen av tverrslag Rogdeli er planlagt i tre omganger. I 2014 ble det installert ny tappeventil i den eksisterende betongproppen og derfra lagt nytt tapperør (PE-rør) ut gjennom hele tunnelen som vist på tegning nr. B-002 (Norconsult, 2014). I 2019 skal det etableres helt ny betongpropp med tverrslagsport nedstrøms den eksisterende betongproppen, og tapperør kobles til eksisterende tappeutstyr. I siste trinn skal den eksisterende tverrslagsporten fjernes, transportåpningen gjennom den gamle betongproppen utvides og tappeventilen som ble installert i 2014 skal flyttes nedstrøms den nye betongproppen.
+
+Etablering av ny betongpropp med tverrslagsport og tappeutstyr planlegges utført med byggestart i april 2019 og ferdigstillelse i løpet av 2019. Fjerning av den eksisterende betongproppen utføres ikke i 2019, men ved neste anledning Tokke vannvei skal tømmes og er ikke en del av denne leveransen.
+
+Leverandøren må sette seg inn i forholdene på arbeidsstedet, herunder også forhold som kan medføre ansvar under arbeidets utførelse eller skape vanskeligheter under fremdriften.
+
+Hvor ikke annet er oppgitt, gjelder de tekniske bestemmelsene slik de er beskrevet i NS3420. Nedenstående regler og bestemmelser gjelder i tillegg til, og i tilfelle uoverensstemmelse, foran NS 3420.
+
+For faggrupper hvor det ikke foreligger Norsk Standard, men hvor det foreligger anerkjente normer og forskrifter, skal også disse følges.
+
+Videre skal forskrifter og anvisninger fra de respektive produsenter eller deres representanter følges, med mindre særskilt tillatelse til å fravike disse er gitt av byggherren.
+
+Mener en av partene at enkelte arbeider faller utenom kontraktens ramme, plikter han å varsle om dette omgående.
+
+
+
+Figur 11: Vannveien til Tokke kraftverk med inntak i Vinjevatn og utløp i Bandak. 
+
+
+
+Underlag
+
+Hvis Leverandøren ikke finner tilstrekkelig underlag for leveransen i dette dokumentet med vedlegg skal Selskapet varsles uten unødvendig forsinkelse.
+
+Alle tegninger referert til i dette dokumentet ligger i Vedlegg A3. Tegninger.
+
+Den eksisterende ventilen i tapperøret er type AVK DN500 PN10 sluseventil (ref. tegning nr. 4014415-100-04 BL.3).
+
+
+
+
+Tekniske bestemmelser og spesifikasjon
+
+Leveransen
+
+Generelt
+
+I henhold til inngått avtale mellom partene skal alt under nevnte utstyr leveres av Leverandøren og dette utgjør Leveransen. Denne spesifikasjonen av Leveransen skal gjelde sammen med Vedlegg A1. Generelle tekniske krav – Vannveiskonstruksjoner, Vedlegg A2. Malingsspesifikasjon for maskinteknisk vannkraftutstyr og Vedlegg A3. Tegninger.
+
+Leveransen skal være komplett og omfatter blant annet beregning, konstruksjon, produksjon, garantiforpliktelser, kontroll, transport, montasje, dokumentasjon, idriftsettelse og overtakelse av Kontraktsgjenstanden.
+
+Tabell 1 Hoveddata – Tverrslagsport
+
+Beskrivelse
+
+Type konstruksjon
+
+Antall
+
+Bredde (m)
+
+Høyde (m)
+
+Terskel kt. (moh)
+
+Tverrslagsport
+
+Hengslet port
+
+1
+
+4,0 m
+
+4,5 m
+
+428,31
+
+Tappeutstyr ny betongpropp
+
+Rustfritt rør (DN500) og nødvendige overganger, stusser og tilkoplinger
+
+1
+
+-
+
+-
+
+Ca. 427,501)
+
+Merknader
+
+Tilpasses på stedet.
+
+Alle høyder og trykkstigning er foreløpige og må bekreftes av Selskapet før produksjon.
+
+Tabell 2: Anleggsbeskrivelse – Hoveddata for anlegget
+
+HOVEDDATA FOR ANLEGGET
+
+Bruddkonsekvensklasse - Tokke vannvei
+
+
+
+3
+
+Nivå – Vinjevatn
+
+
+
+
+
+Nivå - høyeste regulerte vannstand, HRV
+
+Kote [moh]
+
+465,50
+
+Nivå - laveste regulerte vannstand, LRV
+
+Kote [moh]
+
+462,00
+
+Nivå - dimensjonerende flomvannstand, DFV (Q1000 + 25% tilstopping av rekkverk på damkrone)
+
+Kote [moh]
+
+469,72
+
+Nivå - påregnelig maksimal flomvannstand, PMF
+
+Kote [moh]
+
+473,53
+
+Nivå – Tverrslag
+
+
+
+
+
+Nivå - terskel - Tverrslag Rogdeli
+
+Kote [moh]
+
+428,31
+
+Nivå – oppsving – Tverrslag Rogdeli
+
+Kote [moh]
+
+477,68
+
+Karakteristisk trykk ved terskel - Tverrslag Rogdeli 1)
+
+mVs
+
+49,37
+
+Trykk ved installasjon
+
+
+
+
+
+Støpetrykk
+
+TBA
+
+TBA
+
+Injeksjonstrykk
+
+TBA
+
+TBA
+
+Merknader
+
+DFV + trykkstøt/oppsving
+
+Alle høyder og trykkstigning er foreløpige og må bekreftes av Selskapet før produksjon.
+
+
+
+
+Tverrslagsport
+
+Utover beskrivelser under vises det til vedlegg.
+
+Arrangement
+
+Det skal leveres en ny tverrslagsport til vannveien til Tokke kraftverk. Den nye tverrslagsporten skal plasseres i Rogdeli tverrslag nedstrøms eksisterende tverrslagsport som er plassert i tilløpstunnelen mellom Vinjevatn og Tokke kraftstasjon. Det vil normalt være tilkomst til portens luftside gjennom Rogdeli tverrslag.
+
+Arrangementet fremgår av tegninger i Vedlegg A3. Tegninger.
+
+Funksjon
+
+Tverrslagsproppen med port skal gi adkomst for inspeksjon og arbeid ved tørrlagt vannvei.
+
+Tverrslagsporten skal normalt være stengt, men skal kunne åpnes manuelt fra luftside for adkomst inn i driftstunnelen når vannveien er tømt. Tømmerør med ventil og innløp skal sikre at vannsiden er tømt før porten åpnes (se tappeutstyr i kapittel 2.1.3).
+
+Porten skal designes slik at kjøretøy kan kjøres gjennom porten.
+
+Vanntrykket skal presse porten mot karmen.
+
+Et mannhull i portbladet skal sikre adkomst til oppstrøms side i tilfelle porten er blokkert av løsmasser.
+
+Leveranse
+
+Leveransen inkluderer følgende utstyr:
+
+1 tverrslagsport med mannlokk og dobbelthengsel med torsjonsstiv aksling
+
+Karm og platekasse for tverrslagsport
+
+Festepunkt i fjellet til anordning for låsing av port i åpen stilling.
+
+Tverrslagsporten skal overflatebehandles med beskyttende maling i henhold til Vedlegg A1. Generelle tekniske krav – Vannveiskonstruksjoner.
+
+Leveransen skal være komplett og klar for normal drift.
+
+Hoveddata
+
+Tabell 3: Hoveddata – Tverrslagsport Rogdeli
+
+Beskrivelse 
+
+Enhet
+
+
+
+Tverrslagsport
+
+
+
+
+
+Lysåpning, bredde:
+
+mm
+
+4000
+
+Lysåpning, høyde:
+
+mm
+
+4500
+
+Mannhull, diameter
+
+mm
+
+600
+
+Helning i forhold til loddrett:
+
+°
+
+0
+
+Dimensjonerende fradrag for slitasje/rust – alle flater
+
+mm
+
+1
+
+Dimensjonerende trykk – se Tabell 2: Anleggsbeskrivelse – Hoveddata for anlegget
+
+
+
+
+
+Alle høyder og trykkstigning er foreløpige og må bekreftes av Selskapet før produksjon.
+
+
+
+
+Tappeutstyr
+
+Utover beskrivelser under vises det til vedlegg.
+
+Arrangement
+
+Arrangement for midlertidig og permanent løsning for tverrslaget er vist i tegning B-101.
+
+Denne leveransen innebærer installasjon av rør i betongpropp, tappeutstyr og overganger til eksisterende PE-rør for ferdigstilling av den midlertidige løsningen som vist i tegning B-102. I tillegg skal det legges til rette for den permanente løsningen som skal ferdigstilles når den eksisterende betongproppen fjernes. Alt materiell som trengs til den permanente løsningen skal være en del av denne leveransen. Deler som først trengs ved ferdigstilling av den permanente løsningen vil bli lagret hos Selskapet.
+
+Grunnet størrelsen på den nye platekassen må røret gjennom den nye betongproppen parallellforskyves ut til siden i forhold til PE-røret som vist i tegning B-103. På nedstrøms side av tverrslagsproppen bør dette gjøres ved hjelp av fleksibiliteten i PE-røret. På oppstrøms side bør det planlegges med en løsning ved hjelp av bend fordi rør-strekket til neste forankring er kortere. Nøyaktig plassering skal tilpasses på stedet. Endelige vinkler og del-lengder på bend må kontrollmåles etter nøyaktig plassering av tapperør gjennom betongpropp er bestemt.
+
+Funksjon
+
+Det nye tappeutstyret skal benyttes ved tømming av deler av Tokke vannvei gjennom tverrslaget for å tørrlegge tunnelsålen ved port og for å holde unna lekkasjevann ved åpen tverrslagsport.
+
+Leveranse
+
+Leveransen inkluderer alt utstyr og arbeid som kreves for å ferdigstille den mekaniske delen av leveransen til den midlertidige løsningen og alt mekanisk utstyr som trengs til den permanente løsningen. Begge løsningene er vist i tegning B-101. Listen under viser et antatt minimum av utstyr og arbeid:
+
+Leveranse midlertidig løsningen (leveres og monteres av Leverandøren):
+
+Kapping, tilpassing og montering av nye flenser på eksisterende PE-rør for tilkopling til nytt tapperør med tilhørende ventiler og overganger.
+
+Installasjon av rørstuss med ventil (DN100) på PE-rør oppstrøms ny betongpropp.
+
+Overgang PE-rør, DY630, til DN500 stålrør oppstrøms ny betongpropp.
+
+Nødvendige bend for parallellforskyvning av tapperør i forhold til dagens plassering oppstrøms ny betongpropp, DN500.
+
+
+
+Overgangsplate DN500 til DN700 med hullsirkler for DN500 og DN700 med indre diameter som for DN500.
+
+Konus fra DN700 til DN500. Konus vil støpes inn og vil fungere som inntakskonus for den permanente løsningen.
+
+
+
+DN500 stålrør gjennom betongpropp med sveisenipler for tilkopling av eksisterende manometer med ventil (1/2’’ BSP gjenger) og uttak for trykkluftslange med ventil (1’’ BSP gjenger). Sveiseniplene leveres med blindplugger.
+
+Sluseventil tilsvarende eksisterende ventil nedstrøms eksisterende tverrslagspropp av type AVK DN500 PN10 (se tegning nr. 401415-100-04 BL.3).
+
+
+
+Overgangsrør identisk med rør vist på tegning MA43011.
+
+Nødvendige bend for parallellforskyvning av tapperør i forhold til dagens plassering. 
+
+Leveransen skal være komplett og klar for normal drift.
+
+
+
+
+
+
+Utstyr til den permanente løsningen (leveres av Leverandøren, lagres av Selskapet)
+
+Rist i rustfritt stål som skal monteres på innstøpt konus på oppstrøms side av ny betongpropp. Komponenter oppstrøms konusen skal fjernes ved ferdigstilling av den permanente løsningen.
+
+Utstyr som kun trengs til den permanente løsningen lagres av Selskapet. Montering og ferdigstilling av den permanente løsningen er ikke en del av denne leveransen.
+
+Hoveddata
+
+Tabell 4: Hoveddata – Tappeutstyr Rogdeli
+
+Beskrivelse 
+
+Enhet
+
+
+
+Tappeutstyr
+
+
+
+
+
+Rør diameter
+
+mm
+
+DN 500
+
+Lengde ny betongpropp Rogdeli
+
+m
+
+6,0
+
+Dimensjonerende trykk – se tabell Tabell 2: Anleggsbeskrivelse – Hoveddata for anlegget
+
+
+
+
+
+
+
+Alle høyder og trykkstigning er foreløpige og må bekreftes av Selskapet før produksjon.
+
+Kontraktsgjenstanden (slettes)
+
+
+
+	Utførelse
+
+Generelt
+
+Foruten det som står omtalt her skal leveransen tilfredsstille krav i Vedlegg A1. Generelle tekniske krav – Vannveiskonstruksjoner og Vedlegg A2. Malingsspesifikasjon for maskinteknisk vannkraftutstyr.
+
+		Tverrslagsport
+
+		Porten
+
+Tverrslagsporten utføres som en firkantet port med frontplate utformet som del av sylindrisk skall. Porten hengsles med solid innfesting i karm / betong. Porten skal hengsles slik at porten slår inn i vannveien mot høyre sett fra luftsiden. Hengslene skal utføres dobbeltleddet slik at belastningen fra vanntrykket fordeles jevnt over hele portens anleggsflate. Dobbelthengslingen skal utformes slik at porten ikke faller ut i toppen når vanntrykk og låseskruer er borte ved hjelp av ledd sammenkoblet med torsjonsstiv aksel. Hengslene skal ha rustfrie aksler og selvsmurte, ikke-metalliske lager. Portbladet skal kunne låses i åpen og stengt stilling med rustfri låseanordning som ikke begrenser transport-tverrsnittet. Hengslene skal ikke bære noe av vannlasten. Hengslene skal dimensjoneres og utføres slik at én person kan håndtere porten for åpning, lukking og låsing.
+
+Porten skal utformes slik at den i åpen stilling ikke går inn i kjørebanen og har god klaring til lysåpningen gjennom platekassen som vist på tegning B-102.
+
+Porten skal ha oppstrøms pakninger i gummi. Pakningssystem skal beskrives av Leverandør og godkjennes av Selskapet for produksjon. Dersom det benyttes køllepakninger, skal det benyttes helstøpte hjørner, eller kontinuerlig pakning med radius. Klemlister og skruer i rustfritt stål. Eventuell skjøter i pakningen skal limes med dertil egnet lim og legges minimum 500 mm fra hjørnet på porten.
+
+Nedre del av portbladets luftside skal utformes slik at vann dreneres ut.
+
+På luftsiden av porten skal det være festeanordninger som holder porten lukket ved et lufttrykk på 1 mVs større på nedstrøms enn oppstrøms side uten vann tilstede for å holde porten lukket. 
+
+Porten skal utstyres med anordning for å kunne åpne porten med sveivejekk fra nedstrøms side. Videre skal porten utstyres med taljefester for åpning og lukking. Alle festeører utføres i rustfritt stål. Plasseringen på mothold, festeører og fester må være slik at de ikke kommer i veien for innkjøring med kjøretøy.
+
+Porten skal ha feste for sjakkel eller lignende for tilkopling av utstyr for å trekke porten til stengt stilling.
+
+Det skal være mannlokk på porten med O-ringstetning, pakningsflater i rustfritt stål og låsing fra luftsiden. Mannhullet skal være hensiktsmessig plassert. Lukkemekanismen skal være utformet slik at utstyr ikke sperrer for lysåpningen til mannhullet.
+
+		Karm og platekledning
+
+Portbladet skal plasseres på vannsiden og ligge an mot karmen. Karmen skal lages som en stiv ramme som overfører kreftene fra porten og inn i betongen. Karmen skal konstrueres og dimensjoneres for å ta opplager-kreftene fra porten mot karmen, og karmen må tåle det fulle utvendige vanntrykket mellom stål og betong uten hjelp av fjellanker. Karmen skal utføres med anleggsflater i rustfritt stål for port og pakning. Avstanden fra portåpningen til starten av anleggslist skal minimum være 150 mm. Karmen skal ha feste for strammeskruer som holder porten i lukket stilling og anlegg som tillater bruk av sveivejekk for åpning av porten.
+
+Det skal installeres oppstrøms platekledning som skal ivareta tetningen mellom stål og betong fra vanntrykket i driftstunnelen. Platekledningen utføres i rustfritt stål, med utvendige helsveiste ribber av svart stål for avstivning og tetning. 
+
+Oppstrøms skal platekledningen minimum være 2000 mm oppstrøms pakningsplanet med nødvendig antall ribber.
+
+Karm og platekledning skal dimensjoneres for støpe- og injeksjonstrykk. 
+
+		Tappeutstyr
+
+Eksisterende PE-rør på oppstrøms side skal tilpasses, kappes og det skal monteres ny flens for tilkobling av videre komponenter. For drenasje mellom gammel og ny propp installeres en rørstuss med ventil (DN100) i posisjon KL. 5 på PE-rør rett oppstrøms overgang til DN500.
+
+Eventuelt demontasjestykke og nødvendige bend for parallellforskyvning leveres som DN500.
+
+For tilkobling til nedstrøms overgangsrør installeres en overgangsplate for sammenkobling av DN500 flens med DN700 flens med hullsirkler for DN500 og DN700 med hull i midten med diameter tilsvarende indre diameter som for DN500.
+
+Løsningen med demontasjestykke, nødvendige bend og overgansplate må tilpasses på stedet.
+
+Rett oppstrøms tapperøret monteres en konus fra DN500 til DN700 i rustfritt stål som vil være inntakskonus for den permanente løsningen. Konus skal støpes inn, men med støpeflate så langt fra flens at det er mulig å senere koble fra oppstrøms komponenter og installere rist.
+
+Tapperøret skal være i rustfritt stål med flens DN500 PN10 på hver side. 
+
+Tapperøret skal være like langt som betongproppen pluss minimum 300 mm fri lengde mellom betongen og hver flens. Den frie rørlengden tilpasses slik at ventilens manøvreringsutstyr ikke kommer i kontakt med / går godt klar av betongen. Tapperøret skal ha minimum 4 stk. utvendige tetningsribber, med innbyrdes avstand på 250 mm. Tapperøret skal ha sveisenipler for tilkopling av eksisterende manometer med ventil (1/2’’ BSP gjenger) og uttak for trykkluftslange med ventil (1’’ BSP gjenger). Begge tilkoplingene skal stå i posisjon KL. 12 og leveres med blindplugger.
+
+Leveres med pakninger, samt skruer, muttere og underlagsskiver av rustfritt stål.
+
+Nedstrøms tapperøret skal en sluseventil tilsvarende eksisterende ventil nedstrøms eksisterende tverrslagspropp av type AVK DN500 PN10 (se tegning nr. 401415-100-04 BL.3) installeres.
+
+Nedstrøms ventilen skal et overgangsrør identisk med det som står nedstrøms den eksisterende tverrslagsproppen installeres (tegning MA43011). Overgangsrøret skal leveres med sveisenippel for DN50 lufteventil med blindplugg.
+
+Fra oppstrøms side til nedstrøms side skal tappeutstyret monteres som følger for den midlertidige løsningen: PE-rør (DY630, eksisterende) – eventuelt demontasjestykke (DN 500, PN10) – nødvendige bend (DN500) – overgangsplate DN500 x DN700 – Permanent konus (DN700 x DN500) – tapperør (DN 500 PN10) – ventil (AVK DN500 PN10) – overgangsrør (se tegning MA43011) – PE-rør (eksisterende).
+
+Komponentene oppstrøms tapperøret kan leveres i PN 6 eller PN 10.
+
+Leveres med pakninger, samt skruer, muttere og underlagsskiver av rustfritt stål.
+
+
+
+Leverandør må ta høyde for nødvendig tilpasningsmuligheter gjennom f.eks bruk av demontasjestykker eller flenser som kan klemmes fast på PE-røret i nøyaktig ønsket posisjon.
+
+Leverandøren kan velge å bruke prefabrikkerte bend eller lage bend gjæring av rette rørprofiler (miter bend) for å oppnå nødvendig parallellforskyvning av tapperøret gjennom betongproppen.
+
+	Montasjearbeider
+
+Montasjestedet vil bli klargjort for kjøretøyadkomst til parkeringsområdet på utsiden av alle tverrslag. Det vil være kjøreadkomst til montasjested inne i tverrslaget, men må koordineres i henhold til kapittel 2.9 Grensesnitt Leverandør/Entreprenør/Byggherre.
+
+Tunneltversnitt og lengde er illustrert i tegning B-100.
+
+Leverandøren skal planlegge, prosjektere og gjennomføre forberedende arbeider for sin montasje. 
+
+Leverandøren skal gi tilstrekkelige opplysninger for at Selskapet skal kunne utføre arbeid og forberede de fasiliteter som er en del av Selskapets ytelser.
+
+Forankringsprofiler mellom bolter og konstruksjonene leveres og monteres av Leverandøren.
+
+Karm og platekledning
+
+Platekledningen sammen med karmen skal monteres på solide fundamenter av stål, fjellanker og stålprofiler som skal inngå i leveransen. Langsgående stålprofiler kappes før innstøping for å hindre vanngjennomgang.
+
+Karm og platekasse skal støpes inn i en støp uten bruk av støpehull.
+
+Tappeutstyr
+
+Det må foreligge en plan for nødvendige tilpasningsmuligheter av rørlengder/flensposisjoner i lengderetning gjennom f.eks bruk av demontasjestykker eller flenser som kan klemmes fast i PE-røret i nøyaktig ønsket posisjon.
+
+Før installasjonsarbeidet kan starte må sluseventilen stenges og eksisterende tapperør dreneres. Ved første kapp av PE-ledningen må det foreligge en plan for håndtering av potensielt gjenværende vann i røret. Avhengig av valgt tilpasningsløsning for rørlengder/flensposisjoner bør det vurderes å kutte PE-røret nedstrøms planlagt kutt for å kunne tilpasse det etter montasje av nedstrøms rørstykker.
+
+Monteringen av det nye tappeutstyret skal starte ved det avkuttede PE-røret på nedstrøms side av den nye tverrslagsproppen med montering av overgangsrøret og fortsette oppstrøms. Da vil eventuelt nødvendig demontasjestykke kunne fjernes når den permanente løsningen ferdigstilles. Støping av betongfundament utføres av BYGG. 
+
+Nødvendige bend for parallellforskyvning av tapperøret gjennom betongproppen tilpasses på stedet.
+
+	Reservedeler
+
+Det skal ikke være inkludert noen reservedeler.
+
+	Dimensjonering
+
+Tappearrangementet utformes og dimensjoneres for tapping ved vannstand opp til DFV.
+
+Dimensjoneringskriteriene og kravene til utførelse skal være i henhold til Damsikkerhetsforskriften og «Retningslinjer for stenge og tappeorganer, rør og tverrslagsporter – 2009» samt til Statkraft Energis funksjonskrav.
+
+For øvrig skal konstruksjonene dimensjoneres i henhold til Vedlegg A1. Generelle tekniske krav – Vannveiskonstruksjoner.
+
+	Prøver
+
+Normalt skal alt arbeid, som beregninger, tegninger, verkstedarbeid og montasjearbeid, kontrolleres av annet, kvalifisert personell enn de som har utført arbeidet.
+
+Kontroll av beregninger skal omfatte lastforutsetninger, det statiske system, gjennomføring av beregningene, og at tegningene inneholder de beregningsmessige forutsetningene.
+
+Kontrollen skal ivareta at riktige materialer brukes, at materialene er dokumenterte, og at materialene er merket.
+
+Kontrollen skal ved arbeid i verksted og på anlegg ivareta at nødvendige krav til utførelse og toleranser samt arbeidsprosedyrer overholdes, slik at tilsiktet funksjonsdyktighet og kvaliteter forøvrig oppnås.
+
+Prøvene som gjennomføres skal som et minimum inkludere dimensjonskontroll, sveisekontroll og kontroll av overflatebehandling.
+
+Før montering
+
+Det skal gjennomføres kontroll av Leveransen før forsendelse ved Leverandørens lokaler for å sikre at Leveransen er i henhold til kontrakten med Selskapet. Selskapet har rett og skal ha mulighet til å delta på kontrollen.
+
+Kontroll av sveiser skal utføres i henhold til Vedlegg A1. Generelle tekniske krav – Vannveiskonstruksjoner.
+
+Under montering
+
+Det skal gjøres kontroll av montert Leveranse før innstøping med Selskapet tilstede.
+
+Statkraft forbeholder seg retten til å foreta uavhengig kontroll av montasjen under arbeidets gang.
+
+Slutt-prøver
+
+Fullfunksjonsprøve av Leveransen skal gjøres før og etter vannfylling.
+
+	Dokumentasjon
+
+Løpende dokumentasjon
+
+All dokumentasjon i løpet av prosjektperioden skal fremlegges i både papirformat og i MS-kompatibelt elektronisk format.
+
+All dokumentasjon i løpet av prosjektperioden utføres i henhold til Kontraktbestemmelsene og Vedlegg D – Administrative bestemmelser.
+
+Tegninger og beregninger skal sendes Statkraft for kontroll før produksjonen starter. Underlag for byggtegninger oversendes iht. avtalt fremdriftsplan.
+
+"Som bygget"- utgave av tegningene skal ha tittelfelt i henhold til Statkrafts tittelfelt-mal. Kontrollplan for leveransen skal sendes Statkraft kontroll før produksjonen starter.
+
+Sluttdokumentasjon
+
+For krav og spesifikasjoner i forbindelse med sluttdokumentasjon henvises det til Vedlegg D, Administrative bestemmelser.
+
+	Grensesnitt Leverandør/Entreprenør/Byggherre
+
+Arbeidsopplegget og grensesnitt skal gjennomgås i samråd mellom Selskapet, valgt bygg-entreprenør og Leverandør for å tilrettelegge for en totalt sett best mulig gjennomføring av arbeidene. Detaljert felles fremdriftsplan skal settes opp i god tid før arbeidene skal utføres.
+
+Fjellankere (LEVERANDØREN)
+
+Leverandør (LEVERANDØREN)
+
+Fjellankere (bolter i berg) er forankringer som ikke har spesielle toleransekrav vedrørende plassering eller utforming. LEVERANDØREN må påregne å benytte tilpasningsutstyr for å kunne montere Kontraktsgjenstanden til slike fjellankere.
+
+LEVERANDØREN skal utarbeide en plan for alle forankringer som skal plasseres / innstøpes i fjell og betong. Planen skal vise plassering av slike forankringer, og alle krefter som skal overføres til fjell og/eller betong. Innfesting / sveising av utstyr til forankringene er LEVERANDØREN sitt ansvar.
+
+
+
+Bygg entreprenør (BYGG):
+
+Forankringene (bolter i berg) skal leveres og monteres av BYGG.
+
+
+
+Tilpasningsutstyr
+
+Leverandør (LEVERANDØREN):
+
+Tilpasningsutstyr er skjøtejern, skinne osv. som er ment for at Leverandøren skal montere Kontraktsgjenstanden direkte til fjellankere slik at Leverandøren selv må stille toleransekrav vedrørende plassering og krav til utforming.
+
+LEVERANDØREN skal utarbeide en plan for alt tilpasningsutstyr som skal plasseres / innstøpes i betong. Planen skal vise plassering av slikt utstyr, og alle krefter som skal overføres.
+
+LEVERANDØREN er ansvarlig for å stille nødvendige krav vedrørende innstøping.
+
+Tilpasningsutstyr skal dimensjoneres og leveres av LEVERANDØREN.
+
+LEVERANDØREN er ansvarlig for posisjonering og forankring av tilpasningsutstyr før innstøping kan starte. For tilpasningsutstyr som skal festes ved innboring er LEVERANDØREN ansvarlig for innboring og festing.
+
+Innfesting / sveising av utstyr til fjellankere er LEVERANDØREN sitt ansvar.
+
+
+
+Byggestrøm
+
+BYGG installerer i byggestrømsfordelinger ved tverrslagsport.
+
+LEVERANDØREN er ansvarlig for opplegg for byggestrøm for egne arbeider hentet fra byggestrømsfordelinger levert og installert av Leverandør BYGG.
+
+LEVERANDØR oppgir behov i tilbud.
+
+
+
+Belysning
+
+BYGG er ansvarlig for generell belysning på arbeidsstedet.
+
+LEVERANDØREN er ansvarlig for arbeidsbelysning for egne arbeider der generell arbeidsbelysning besørget av BYGG ikke er tilstrekkelig for sikker arbeidsoperasjon.
+
+
+
+Innstøpingsgods – Tverrslagsport og tappeutstyr
+
+Leverandør (LEVERANDØREN)
+
+LEVERANDØREN er ansvarlig for å oppgi krav til støpeprosedyre for innstøping av sitt utstyr. Kravene skal være forenlig med at innstøpningsgodset støpes inn i en sammenhengende støp, og normal oppfyllingshastighet for betong, maks 0,5 meter / time.
+
+LEVERANDØREN skal angi maksimal forskyvning og deformasjon som tillates i forbindelse med innstøpingen.
+
+LEVERANDØREN er ansvarlig for å utføre innstøpingsgods så innstøpingsvennlig som mulig. Ribber og avstivninger plasseres slik at det gir god tilrenning for betongen under innstøpingsprosessen og evakuering av luft slik at ikke hulrom oppstår.
+
+LEVERANDØREN er ansvarlig for å utføre det som er nødvendig av injiseringshull for å sikre full innstøping der det er fare for at bomstøp / hulrom i betongen har / kan oppstå. Dette arbeidet utføres i samarbeid med BYGG. 
+
+LEVERANDØREN er ansvarlig for å sveise / tette igjen slike injiseringshull etter at arbeidet er utført. 
+
+
+
+LEVERANDØREN er ansvarlig for posisjonering og forankring av sitt innstøpningsgods før innstøping kan starte.
+
+LEVERANDØREN godkjenner SELSKAPET/BYGG sin kontroll av posisjon på utstyret før og etter innstøping. 
+
+Under innstøping skal LEVERANDØREN umiddelbart varsle SELSKAPET/BYGG dersom han mener arbeidet ikke utføres i henhold til prosedyren.
+
+LEVERANDØREN skal montere tømmerør ved tverrslagsporten for å drenere tilsigsvann fra oppstrøms porten. Tømmerøret avsluttes med ventiler, nødvendige fundamenter og flenser på luftsiden. Forankres mot oppdrift og støpes inn.
+
+LEVERANDØREN er ansvarlig for å melde behov for avstempling under innstøping.
+
+For tappeutstyr som skal installeres i eksisterende tappearrangement er LEVERANDØREN ansvarlig for installasjon og fastmontasje av nytt tappeutstyr til eksisterende rør før injisering og innstøping.
+
+
+
+Bygg entreprenør (BYGG):
+
+BYGG er ansvarlig for å utføre innstøping av konstruksjonene etter anvisning fra LEVERANDØREN. 
+
+SELSKAPET / BYGG er ansvarlig for å utarbeide en støpeprosedyre i henhold til krav fra LEVERANDØREN.
+
+SELSKAPET / BYGG skal varsle om innstøping to dager før innstøping finner sted slik at LEVERANDØREN kan delta og følge opp innstøping.
+
+BYGG skal ha oppstilt måleutstyr for å kontrollere at konstruksjonen ikke forandrer form og plassering under støpeprosessen.
+
+SELSKAPET/BYGG skal stoppe innstøpingen dersom LEVERANDØREN varsler at innstøpingen ikke utføres i henhold avtalt prosedyre.
+
+BYGG er ansvarlig for å utføre injisering / etterstøp hvis det er oppstått bomstøp / hulrom under / etter innstøpingen. Dette arbeidet, dersom nødvendig, utføres i samarbeid med LEVERANDØREN.
+
+BYGG utarbeider prosedyre for injisering av stålkonstruksjonene basert på tillatt trykk.
+
+BYGG er ansvarlig for håndtering av vannulemper i forbindelse med montasje og innstøping av tverrslagsport og tappeutstyr. 
+
+
+
+Selskapet (SELSKAPET)
+
+Selskapet spesifiserer støpe- og injiseringstrykk.
+
+
+
+	Forhold på byggeplassen
+
+Beliggenhet og adkomst, klimatiske forhold 
+
+Det er kjørevei helt frem til tverrslaget, med avkjørsel fra E134 ca. 2,5 km før Åmot.
+
+Leverandøren må selv skaffe seg oversikt over klimatiske forhold.
+
+
+
+E134 Avkjørsel
+
+E134 Avkjørsel
+
+Tverrslag Rogdeli
+
+Tverrslag Rogdeli
+
+Tokkeåi
+
+Tokkeåi
+
+Figur 21 Kart over Rogdeli. Se samme område på foto i Figur 22. (www.nve.no - NVE Atlas)
+
+
+
+E134 Avkjørsel
+
+E134 Avkjørsel
+
+Tverrslag Rogdeli
+
+Tverrslag Rogdeli
+
+Tokkeåi
+
+Tokkeåi
+
+Figur 22 Oversikt Rogdeli. (www.norgeibilder.no)
+
+
+
+Tverrslag Rogdeli
+
+Tverrslag Rogdeli
+
+Figur 23 Området like utenfor tverrslagstunnel Rogdeli (fra www.norgeibilder.no).
+
+
+
+
+
+Figur 51 Tverrslag Rogdeli. Portal i åpning på tverrslagstunnel, 7. sept. 2017.
+
+
+
+Figur 52 Tverrslag Rogdeli. Adkomst og parkeringsområde foran tverrslagstunnel, 7. sept. 2017.
+
+
+
+Figur 53 Ny propp skal etableres her nedstrøms eksisterende propp som ses i bakgrunnen.
+
+
+
+Figur 54 Tverrslag Rogdeli. Eksisterende betongpropp med port med lysåpning 2,2 x 2,2 m. Bildet er fra 13. aug. 2014 og viser montasje av nytt forbitappingsrør med ventil.
+
+Tilrigging
+
+Leverandøren må sørge for tilrigging av nødvendig utstyr.
+
+All renovasjon og eventuelt spesialavfall fra egen virksomhet er Leverandørens ansvar.
+
+Alle nødvendige tillatelser (utslippstillatelse fra brakker, gravetillatelse el. lign.) er Leverandørens ansvar.
+
+Fjellforhold 
+
+Berget i hele tverrslagstunnelen ble kontrollert og sikret i forbindelse med montasje av tømmerøret i 2014. Byggentreprenøren vil i 2019 kontrollere tunnelsikringen og sikre ytterligere ved eventuelt behov.
+
+Innkvartering
+
+Leverandøren må selv ordne overnatting og forpleining for sitt personell, men Selskapet kan være behjelpelig med kontaktinformasjon.
+
+Kraftforsyning
+
+Ved montasjestedet må det settes opp skap for byggestrøm. Se kapittel 2.9 Grensesnitt Leverandør/Entreprenør/Byggherre.
+
+Arbeidstid
+
+Ordinær arbeidstid i Selskapet er 07:00-15:00- Bruk av overtid og skiftordninger skal avtales med Selskapet.
+
+Transport av personell
+
+All transport av Leverandørens personell skal bekostes av Leverandøren.
+
+Orden og opprydding
+
+Leverandøren plikter til enhver tid å holde orden på eget utstyr på arbeidstedet. Leverandøren er selv ansvarlig for levering av demontert utstyr til godkjent deponi.
+
+Sikringstiltak
+
+Atkomst tverrslagstunnel sikres etter Selskapets sikringsprosedyrer og gjøres av Selskapet.
+
+Andre entrepriser
+
+Ved eventuell kontraktsinngåelse vil leverandøren av utstyret iht. dette dokumentet, samarbeide med Leverandør Bygg som beskrevet i kapitel 2.9 Grensesnitt Leverandør/Entreprenør/Byggherre.
+
+
+
+
+
+
+
+
+
+
+
+
+Vedlegg A1. Generelle tekniske krav – Vannveiskonstruksjoner
+
+Vedlegg A2. Malingsspesifikasjon for maskinteknisk vannkraftutstyr
+
+Vedlegg A3. Tegninger
+
+Rørarrangement ved tverrslagsport – Snitt – B-002
+
+(prosjekt 5133305)
+
+Ny tverrslagspropp – Plan og lengdesnitt – B-100 (prosjekt 5175900)
+
+Ny tverrslagspropp – Lengdesnitt – B-101 (prosjekt 5175900)
+
+Ny tverrslagspropp – Plansnitt – B-102 (prosjekt 5175900)
+
+Ny tverrslagspropp – Oppriss – B-103 (prosjekt 5175900)
+
+Ny tverrslagspropp – 3D illustrasjon – B-104 (prosjekt 5175900)
+
+Rørarrangement ved tverrslagsport – Overgangsrør – Sammenstillingstegning – MA43011 (prosjekt 5133305)
+
+Tappearrangement DN450/DN500 PN10 – Detaljer sluseventil – 401415-100-04 BL.3
+
+EL.Mek/Bygg og Anlegg
+
+Rev.nr. 2.1, Rev. Dato 01.10.2014

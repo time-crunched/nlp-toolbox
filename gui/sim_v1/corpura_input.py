@@ -1,13 +1,20 @@
 import os
 
-corpura_dict = {r'corpus_1': {r'search_dir': r'C:\Users\erdig\Desktop\6_Tilbud\Vannkraft\2017',
+corpura_dict = {r'corpus_1': {r'search_dir': r'C:\Users\erdig\Desktop\6_Tilbud\Vannkraft',
                             r'doc': True,
                             r'docx': True,
                             r'pdf': False,
                             r'txt': False,
                             r'language': r'norwegian'
                             },
-                r'corpus_2': {r'search_dir': r'C:\Users\erdig\Desktop\6_Tilbud\Vannkraft\2018',
+                r'corpus_2': {r'search_dir': r'C:\Users\erdig\Desktop\6_Tilbud\Maskinanalyse',
+                            r'doc': True,
+                            r'docx': True,
+                            r'pdf': False,
+                            r'txt': False,
+                            r'language': r'norwegian'
+                                    },
+                r'corpus_3': {r'search_dir': r'C:\Users\erdig\Desktop\04_Forespørsler og Tilbud',
                             r'doc': True,
                             r'docx': True,
                             r'pdf': False,
