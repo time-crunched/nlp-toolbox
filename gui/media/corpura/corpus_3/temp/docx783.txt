@@ -1,0 +1,17 @@
+contractnumb
+contractdescription
+vedlegg
+e3
+hms-krav
+sid
+1
+1
+vedlegg
+e3
+hms-krav
+dok.nr
+documentid
+malnr
+338
+malversjonsnr
+1.1
