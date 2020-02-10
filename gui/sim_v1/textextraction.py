@@ -63,6 +63,7 @@ class TEXTExtraction():
 
             for filename in self.docxtextlist:
                 try:
+                    filename = str(filename)
                     text = docx2txt.process(filename)
                     outname = 'docx'+str(docx_n)
                     outfile = os.path.join(self.extraction_dir, outname+'.txt')
